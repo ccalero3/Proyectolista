@@ -1,0 +1,6 @@
+d:\usuarios\samsung\documents\visual studio 2013\Projects\Proyetolista\bin\Debug\Proyetolista.exe.config
+d:\usuarios\samsung\documents\visual studio 2013\Projects\Proyetolista\obj\Debug\Proyetolista.csprojResolveAssemblyReference.cache
+d:\usuarios\samsung\documents\visual studio 2013\Projects\Proyetolista\bin\Debug\Proyetolista.exe
+d:\usuarios\samsung\documents\visual studio 2013\Projects\Proyetolista\bin\Debug\Proyetolista.pdb
+d:\usuarios\samsung\documents\visual studio 2013\Projects\Proyetolista\obj\Debug\Proyetolista.exe
+d:\usuarios\samsung\documents\visual studio 2013\Projects\Proyetolista\obj\Debug\Proyetolista.pdb
